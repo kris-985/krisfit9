@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  width: 100%;
+  max-width: 1214px;
+  margin: 0 auto;
+}
+
+.website-logo {
+  display: block;
+  width: 200px;
+}
+
+.nav-item-link {
+  @apply px-4 py-3 inline-block text-xl rounded hover:text-white hover:bg-primary;
+}
+
+.medium-dialog {
+  width: 100%;
+  max-width: 800px;
+  position: fixed;
+  background-color: white;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  @apply shadow-lg rounded p-10;
+}
+
+.form-control {
+  @apply w-full border border-gray rounded p-2 outline-none focus:border-gray-dark;
+}
+
+.btn-control {
+  @apply rounded border border-gray py-3 px-4 hover:text-white hover:bg-primary;
+}

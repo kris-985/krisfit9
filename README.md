@@ -20,4 +20,4 @@ Vue.js: For building a dynamic and responsive front-end user interface.
 
 MySQL: For managing the database and storing user data.
 
-Tailwind: For a sleek and responsive design.
+Tailwind CSS: For a sleek and responsive design.

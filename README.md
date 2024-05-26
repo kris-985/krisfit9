@@ -12,6 +12,9 @@ Personal Stories: Read inspiring stories from fitness enthusiasts and profession
 
 User Interaction: Engage with the community through comments and discussions.
 
+Link to the project:
+https://krisfit9.com/
+
 Technologies Used
 
 PHP: For server-side scripting and handling backend operations.
